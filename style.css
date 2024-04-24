@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    color: #607d8b;
+}
+h1, h2, h3 {
+    font-family: 'Roboto Slab', serif;
+    color: #607d8b;
+}
+header {
+    background-color: #607d8b;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+nav {
+    background-color: #ffeb3b;
+    padding: 10px;
+    text-align: center;
+}
+main {
+    padding: 20px;
+}
+section {
+    margin-bottom: 30px;
+}
+aside {
+    background-color: #cddc39;
+    padding: 20px;
+    text-align: center;
+}
+footer {
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+button{
+    background-color: none;
+    color: black;
+    border-radius: 20px;
+    height: 35px;
+    width: 60px
